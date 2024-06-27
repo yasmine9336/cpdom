@@ -65,4 +65,7 @@
   
   .fa-trash-alt {
     color: #de6b5c;
-  } 
+  }
+  .liked {
+    color: red; /* You can choose any color you prefer */
+} 
